@@ -1,4 +1,4 @@
-# Base para ejecutar los algoritmos
+# Base para ejecutar los algoritmos
 
 Se modificaron los algoritmos TSPGrasp y TSPGenetic para que acepten algunos parámetros
 
